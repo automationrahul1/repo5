@@ -8,3 +8,6 @@
 2026-08-18  10:02 AM                 0 test1.txt
                1 File(s)              0 bytes
                2 Dir(s)  103,108,784,128 bytes free
+
+
+This is new statement added. 
