@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 88F1-3EA9
+
+ Directory of C:\Users\rahul\OneDrive\Desktop\Rahul work\Gittest\myProject2
+
+2026-08-18  10:02 AM    <DIR>          .
+2026-08-18  10:00 AM    <DIR>          ..
+2026-08-18  10:02 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  103,108,784,128 bytes free
